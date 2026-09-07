@@ -6,7 +6,20 @@
 
 **ابحث. اختر. شاهد اللحظة.** — *Search. Select. Watch the moment.*
 
-**نسخة تجريبية مجانية — Free Beta** · ويندوز Windows 10/11 · `v1.1.0-beta`
+**نسخة تجريبية مجانية — Free Beta** · ويندوز Windows 10/11 · `v1.1.0-beta.1`
+
+<!-- DOWNLOAD BUTTONS -->
+<p align="center">
+  <a href="https://github.com/jou1182/ClipSeek-Releases/releases/download/v1.1.0-beta.1/ClipSeek.exe">
+    <img src="https://img.shields.io/badge/Download_ClipSeek.exe-v1.1.0--beta.1-1f6feb?style=for-the-badge&logo=windows&logoColor=white" alt="Download ClipSeek.exe">
+  </a>
+  <br>
+  <sub>📥 حمّل الملف التشغيلي مباشرة (38 MB) — لا يحتاج تثبيتًا</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jou1182/ClipSeek-Releases/releases/download/v1.1.0-beta.1/USER_GUIDE.md">📖 الدليل الكامل بالعربية (USER_GUIDE.md)</a>
+</p>
 
 </div>
 
@@ -44,7 +57,9 @@
 
 **الخطوة 1 — حمّل التطبيق**
 
-من تبويب **[Releases](../../releases)** حمّل `ClipSeek.exe` ثم شغّله مباشرة — لا يحتاج تثبيتًا.
+[⬇️ حمّل `ClipSeek.exe` مباشرة (38 MB)](https://github.com/jou1182/ClipSeek-Releases/releases/download/v1.1.0-beta.1/ClipSeek.exe)
+
+ثم شغّله مباشرة — لا يحتاج تثبيتًا. (أو من [صفحة Releases](../../releases) إن أردت كل الإصدارات.)
 
 > 🛡️ **رسالة SmartScreen؟** التطبيق غير موقّع بعد — اضغط **"More info"** ← **"Run anyway"**.
 
@@ -110,7 +125,9 @@ Remember a word or phrase your instructor said in one of dozens of lessons, but 
 
 **Step 1 — Download**
 
-From the **[Releases](../../releases)** tab, download `ClipSeek.exe` and run it — no installation required.
+[⬇️ Download `ClipSeek.exe` directly (38 MB)](https://github.com/jou1182/ClipSeek-Releases/releases/download/v1.1.0-beta.1/ClipSeek.exe)
+
+Run it — no installation required. (Or browse all versions on the [Releases](../../releases) page.)
 
 > 🛡️ **SmartScreen warning?** The app is unsigned — click **"More info"** → **"Run anyway"**.
 
