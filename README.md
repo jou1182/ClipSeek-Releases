@@ -49,16 +49,23 @@
 > 🛡️ **رسالة SmartScreen؟** التطبيق غير موقّع بعد — اضغط **"More info"** ← **"Run anyway"**.
 
 **الخطوة 2 — جهّز ملفات الترجمة (ببرنامج Buzz المجاني)**
+<img width="1205" height="681" alt="image" src="https://github.com/user-attachments/assets/d2ef5575-e9b5-4e6f-85e2-ab06281ef933" />
 
 1. افتح [Buzz](https://github.com/chidiwilliams/buzz) وولّد ترجمة حلقاتك
 2. الإعدادات المثالية للعربية: `Faster Whisper` + `Large-V3-Turbo` + `Auto detect` + `Transcribe`
 3. صدّر النتائج بصيغة **SRT**
+<img width="305" height="323" alt="image" src="https://github.com/user-attachments/assets/ed4c94ce-6bd2-4a98-b106-aa31629d14df" />
 
 **الخطوة 3 — ابحث!**
 
 1. ضع ملفات SRT بجانب ملفات الفيديو (نفس المجلد)
 2. افتح ClipSeek ← اختر المجلد
 3. اكتب أي كلمة → تظهر النتائج فورًا ← اضغط **"فتح"** ليقفز الفيديو للّحظة
+<img width="1681" height="1013" alt="image" src="https://github.com/user-attachments/assets/28834aa4-ac73-4f1c-8d2b-731cb0a259a9" />
+<img width="619" height="496" alt="image" src="https://github.com/user-attachments/assets/71ad441d-0320-4a48-9327-7eb115449041" />
+<img width="550" height="455" alt="image" src="https://github.com/user-attachments/assets/f4a8b525-962a-4642-862a-2de410d36cd2" />
+<img width="627" height="676" alt="image" src="https://github.com/user-attachments/assets/4ae65c19-ea17-4ccb-8ecb-bc47cb33522b" />
+<img width="424" height="396" alt="image" src="https://github.com/user-attachments/assets/38113321-b2f6-405d-b233-8b9e0a162848" />
 
 📖 **الدليل الكامل:** ملف `USER_GUIDE.md` المرفق مع الإصدار.
 
