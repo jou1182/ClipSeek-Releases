@@ -66,6 +66,10 @@
 <img width="550" height="455" alt="image" src="https://github.com/user-attachments/assets/f4a8b525-962a-4642-862a-2de410d36cd2" />
 <img width="627" height="676" alt="image" src="https://github.com/user-attachments/assets/4ae65c19-ea17-4ccb-8ecb-bc47cb33522b" />
 <img width="424" height="396" alt="image" src="https://github.com/user-attachments/assets/38113321-b2f6-405d-b233-8b9e0a162848" />
+   4-استخدم برنامج VLC كما بالصورة
+   <img width="360" height="282" alt="image" src="https://github.com/user-attachments/assets/782c43cc-d28c-4b57-8ab6-1566f57944b2" />
+
+
 
 📖 **الدليل الكامل:** ملف `USER_GUIDE.md` المرفق مع الإصدار.
 
