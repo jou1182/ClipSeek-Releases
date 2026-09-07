@@ -21,6 +21,7 @@
 | ✅ | ✅ | ✅ |
 |---|---|---|
 | ابحث في كل الحلقات دفعة واحدة | نتائج فورية أثناء الكتابة | قفزة دقيقة إلى كلمة في الفيديو |
+<img width="1680" height="1009" alt="image" src="https://github.com/user-attachments/assets/eccde2bb-d866-44e9-8116-b047f7b234ef" />
 
 ---
 
