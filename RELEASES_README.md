@@ -6,11 +6,11 @@
 
 **ابحث. اختر. شاهد اللحظة.** — *Search. Select. Watch the moment.*
 
-**نسخة تجريبية مجانية — Free Beta** · ويندوز Windows 10/11 · `v1.1.0-beta.1`
+**نسخة تجريبية مجانية — Free Beta** · ويندوز Windows 10/11 · `v1.1.0-beta.5`
 
 <!-- DOWNLOAD BUTTONS -->
 <p align="center">
-  <a href="https://github.com/jou1182/ClipSeek-Releases/releases/download/v1.1.0-beta.1/ClipSeek.exe">
+  <a href="https://joutricks.lemonsqueezy.com/checkout/buy/4075347d-9a46-4c8d-8d9d-29701526e31a">
     <img src="https://img.shields.io/badge/Download_ClipSeek.exe-v1.1.0--beta.1-1f6feb?style=for-the-badge&logo=windows&logoColor=white" alt="Download ClipSeek.exe">
   </a>
   <br>
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jou1182/ClipSeek-Releases/releases/download/v1.1.0-beta.1/USER_GUIDE.md">📖 الدليل الكامل بالعربية (USER_GUIDE.md)</a>
+  <a href="https://github.com/jou1182/ClipSeek-Releases/releases/download/v1.1.0-beta.5/USER_GUIDE.md">📖 الدليل الكامل بالعربية (USER_GUIDE.md)</a>
 </p>
 
 </div>
@@ -57,7 +57,7 @@
 
 **الخطوة 1 — حمّل التطبيق**
 
-[⬇️ حمّل `ClipSeek.exe` مباشرة (38 MB)](https://github.com/jou1182/ClipSeek-Releases/releases/download/v1.1.0-beta.1/ClipSeek.exe)
+[⬇️ حمّل `ClipSeek.exe` مباشرة (38 MB)](https://joutricks.lemonsqueezy.com/checkout/buy/4075347d-9a46-4c8d-8d9d-29701526e31a)
 
 ثم شغّله مباشرة — لا يحتاج تثبيتًا. (أو من [صفحة Releases](../../releases) إن أردت كل الإصدارات.)
 
@@ -125,7 +125,7 @@ Remember a word or phrase your instructor said in one of dozens of lessons, but 
 
 **Step 1 — Download**
 
-[⬇️ Download `ClipSeek.exe` directly (38 MB)](https://github.com/jou1182/ClipSeek-Releases/releases/download/v1.1.0-beta.1/ClipSeek.exe)
+[⬇️ Download `ClipSeek.exe` directly (38 MB)](https://joutricks.lemonsqueezy.com/checkout/buy/4075347d-9a46-4c8d-8d9d-29701526e31a)
 
 Run it — no installation required. (Or browse all versions on the [Releases](../../releases) page.)
 
