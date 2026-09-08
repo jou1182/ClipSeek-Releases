@@ -80,7 +80,8 @@
 <img width="619" height="496" alt="image" src="https://github.com/user-attachments/assets/71ad441d-0320-4a48-9327-7eb115449041" />
 <img width="550" height="455" alt="image" src="https://github.com/user-attachments/assets/f4a8b525-962a-4642-862a-2de410d36cd2" />
 <img width="627" height="676" alt="image" src="https://github.com/user-attachments/assets/4ae65c19-ea17-4ccb-8ecb-bc47cb33522b" />
-<img width="424" height="396" alt="image" src="https://github.com/user-attachments/assets/38113321-b2f6-405d-b233-8b9e0a162848" />
+<img width="474" height="515" alt="صورة البرنامج عن" src="https://github.com/user-attachments/assets/ed640c80-f648-4317-91bf-e001b9f063af" />
+
 1.استخدم برنامج  VLC ( كما بالصورة )
    
    
