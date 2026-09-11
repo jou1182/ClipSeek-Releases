@@ -6,19 +6,19 @@
 
 **ابحث. اختر. شاهد اللحظة.** — *Search. Select. Watch the moment.*
 
-**نسخة تجريبية مجانية — Free Beta** · ويندوز Windows 10/11 · `v1.1.0-beta.5`
+**نسخة تجريبية مجانية — Free Beta** · ويندوز Windows 10/11 · `v1.1.0-beta.6`
 
 <!-- DOWNLOAD BUTTONS -->
 <p align="center">
   <a href="https://joutricks.lemonsqueezy.com/checkout/buy/4075347d-9a46-4c8d-8d9d-29701526e31a">
-    <img src="https://img.shields.io/badge/Download_ClipSeek.exe-v1.1.0--beta.1-1f6feb?style=for-the-badge&logo=windows&logoColor=white" alt="Download ClipSeek.exe">
+    <img src="https://img.shields.io/badge/Download_ClipSeek.exe-v1.1.0--beta.6-1f6feb?style=for-the-badge&logo=windows&logoColor=white" alt="Download ClipSeek.exe">
   </a>
   <br>
   <sub>📥 حمّل الملف التشغيلي مباشرة (38 MB) — لا يحتاج تثبيتًا</sub>
 </p>
 
 <p align="center">
-  <a href="https://github.com/jou1182/ClipSeek-Releases/releases/download/v1.1.0-beta.5/USER_GUIDE.md">📖 الدليل الكامل بالعربية (USER_GUIDE.md)</a>
+  <a href="https://github.com/jou1182/ClipSeek-Releases/blob/main/USER_GUIDE.md">📖 الدليل الكامل بالعربية (USER_GUIDE.md)</a>
 </p>
 
 </div>
