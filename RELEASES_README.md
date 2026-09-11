@@ -6,19 +6,19 @@
 
 **ابحث. اختر. شاهد اللحظة.** — *Search. Select. Watch the moment.*
 
-**نسخة تجريبية مجانية — Free Beta** · ويندوز Windows 10/11 · `v1.1.0-beta.5`
+**نسخة تجريبية مجانية — Free Beta** · ويندوز Windows 10/11 · `v1.1.0-beta.6`
 
 <!-- DOWNLOAD BUTTONS -->
 <p align="center">
   <a href="https://joutricks.lemonsqueezy.com/checkout/buy/4075347d-9a46-4c8d-8d9d-29701526e31a">
-    <img src="https://img.shields.io/badge/Download_ClipSeek.exe-v1.1.0--beta.1-1f6feb?style=for-the-badge&logo=windows&logoColor=white" alt="Download ClipSeek.exe">
+    <img src="https://img.shields.io/badge/Download_ClipSeek.exe-v1.1.0--beta.6-1f6feb?style=for-the-badge&logo=windows&logoColor=white" alt="Download ClipSeek.exe">
   </a>
   <br>
   <sub>📥 حمّل الملف التشغيلي مباشرة (38 MB) — لا يحتاج تثبيتًا</sub>
 </p>
 
 <p align="center">
-  <a href="https://github.com/jou1182/ClipSeek-Releases/releases/download/v1.1.0-beta.5/USER_GUIDE.md">📖 الدليل الكامل بالعربية (USER_GUIDE.md)</a>
+  <a href="https://github.com/jou1182/ClipSeek-Releases/blob/main/USER_GUIDE.md">📖 الدليل الكامل بالعربية (USER_GUIDE.md)</a>
 </p>
 
 </div>
@@ -66,9 +66,32 @@
 **الخطوة 2 — جهّز ملفات الترجمة (ببرنامج Buzz المجاني)**
 <img width="1205" height="681" alt="image" src="https://github.com/user-attachments/assets/d2ef5575-e9b5-4e6f-85e2-ab06281ef933" />
 
-1. افتح [Buzz](https://github.com/chidiwilliams/buzz) وولّد ترجمة حلقاتك
+1. **حمّل Buzz** — رابط سريع عبر Google Drive: [⬇️ تحميل Buzz من Google Drive](https://drive.google.com/file/d/1YuEbybE0ozmWFzIFaQ6ZYeyKWqW2WJA4/view) (أسرع بكثير من التحميل الرسمي)، أو من [الموقع الرسمي](https://github.com/chidiwilliams/buzz/releases).
 2. الإعدادات المثالية للعربية: `Faster Whisper` + `Large-V3-Turbo` + `Auto detect` + `Transcribe`
 3. صدّر النتائج بصيغة **SRT**
+
+> ⚠️ **عند تثبيت Buzz:** التطبيق غير موقّع، ستظهر رسالة تحذير — اضغط **More info** ثم **Run anyway**.
+
+<details>
+<summary><b>📖 دليل اختيار الموديل المناسب (اضغط للتوسّع)</b></summary>
+
+**أحجام الموديل — الدقة مقابل السرعة:**
+- **tiny / base / small / medium**: أسرع لكن أقل دقة.
+- **Large-V2**: دقة جيدة واستقرار عالٍ لبعض اللغات.
+- **Large-V3**: الأحدث والأدق في معظم الحالات (قد يبتكر كلمات نادرًا).
+- **Turbo**: توازن ممتاز بين السرعة والدقة. ✨ **الأنسب للعربية.**
+
+**أنواع Whisper (محرّكات التشغيل):**
+- **Faster Whisper**: أسرع بمراحل من Whisper العادي وذاكرة أقل — يحتاج كرت Nvidia بـ **6GB VRAM** على الأقل. **الأنسب إن توفّر كرت Nvidia.**
+- **Whisper.cpp**: سريع وفعّال، يعمل مع أي كرت شاشة وعلى المعالج (CPU) فقط — **الأفضل لمن لا يملك Nvidia، وعلى أجهزة Mac.**
+- **Whisper**: التنفيذ الأصلي من OpenAI — دقيق لكن بطيء ويستهلك ذاكرة كبيرة.
+- **HuggingFace**: يدعم نماذج مخصّصة كثيرة، منها Parakeet وQwen3-ASR وVibeVoice (منذ 1.5.0).
+- ⚠️ النماذج التي في اسمها **`.En`** مخصّصة للإنجليزية فقط ولا تعمل لغيره.
+
+**التوصية:** `Faster Whisper` + `Large-V3-Turbo` + `Auto detect` (أو `Whisper.cpp` إن لم يوجد كرت Nvidia).
+للمزيد: [دليل Buzz الرسمي للنماذج](https://chidiwilliams.github.io/buzz/docs/faq#4-what-model-should-i-use)
+
+</details>
 <img width="305" height="323" alt="image" src="https://github.com/user-attachments/assets/ed4c94ce-6bd2-4a98-b106-aa31629d14df" />
 
 **الخطوة 3 — ابحث!**
@@ -133,9 +156,32 @@ Run it — no installation required. (Or browse all versions on the [Releases](.
 
 **Step 2 — Generate subtitles (with the free Buzz app)**
 
-1. Open [Buzz](https://github.com/chidiwilliams/buzz) and transcribe your episodes
+1. **Download Buzz** — fast mirror via Google Drive: [⬇️ Get Buzz from Google Drive](https://drive.google.com/file/d/1YuEbybE0ozmWFzIFaQ6ZYeyKWqW2WJA4/view) (much faster than the official download), or the [official releases](https://github.com/chidiwilliams/buzz/releases).
 2. Recommended for Arabic: `Faster Whisper` + `Large-V3-Turbo` + `Auto detect` + `Transcribe`
 3. Export as **SRT**
+
+> ⚠️ **Buzz install note:** the app is unsigned, so Windows shows a warning — click **More info** → **Run anyway**.
+
+<details>
+<summary><b>📖 Which model should I use? (click to expand)</b></summary>
+
+**Model sizes — accuracy vs speed:**
+- **tiny / base / small / medium**: faster, less accurate.
+- **Large-V2**: good accuracy, stable for some languages.
+- **Large-V3**: newest, most accurate in most cases (may occasionally hallucinate).
+- **Turbo**: excellent speed/accuracy balance. ✨ **Best for Arabic.**
+
+**Whisper types (engines):**
+- **Faster Whisper**: orders of magnitude faster, less RAM — needs an Nvidia GPU with **≥6GB VRAM**. **Best if you have Nvidia.**
+- **Whisper.cpp**: fast and efficient, works with any GPU or CPU-only — **best without Nvidia and on Macs.**
+- **Whisper**: original OpenAI implementation — accurate but slow and RAM-heavy.
+- **HuggingFace**: supports many custom models, incl. Parakeet, Qwen3-ASR, VibeVoice (since 1.5.0).
+- ⚠️ Models with **`.En`** in the name are English-only.
+
+**Recommendation:** `Faster Whisper` + `Large-V3-Turbo` + `Auto detect` (or `Whisper.cpp` if no Nvidia GPU).
+More: [Buzz models guide](https://chidiwilliams.github.io/buzz/docs/faq#4-what-model-should-i-use)
+
+</details>
 
 **Step 3 — Search!**
 
