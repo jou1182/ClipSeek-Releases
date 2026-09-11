@@ -21,10 +21,29 @@
 ## 2) سير العمل الأساسي (3 خطوات)
 
 ### الخطوة 1 — جهّز ملفات الترجمة (باستخدام Buzz)
-1. افتح **Buzz** وولّد ترجمة لحلقاتك (اختر `Faster Whisper` + `Large-V3-Turbo` + `Auto detect` + `Transcribe`)
-2. صدّر النتائج بصيغة **SRT** (وTXT إن أردت)
-3. ضع ملفات SRT **في نفس مجلد الفيديوات** (أو مجلد فرعي مثل `videos/`)
-4. لا يهم إن أضاف Buzz لاحقة `(transcribed on ...)` للاسم — ClipSeek يتجاهلها تلقائيًا
+1. **حمّل Buzz** — [⬇️ تحميل سريع من Google Drive](https://drive.google.com/file/d/1YuEbybE0ozmWFzIFaQ6ZYeyKWqW2WJA4/view) (أسرع من التحميل الرسمي)، أو من [الموقع الرسمي](https://github.com/chidiwilliams/buzz/releases)
+2. ⚠️ عند التثبيت ستظهر رسالة تحذير (التطبيق غير موقّع) — اضغط **More info** ثم **Run anyway**
+3. اختر الإعدادات المثالية للعربية: `Faster Whisper` + `Large-V3-Turbo` + `Auto detect` + `Transcribe`
+4. صدّر النتائج بصيغة **SRT** (وTXT إن أردت)
+5. ضع ملفات SRT **في نفس مجلد الفيديوات** (أو مجلد فرعي مثل `videos/`)
+6. لا يهم إن أضاف Buzz لاحقة `(transcribed on ...)` للاسم — ClipSeek يتجاهلها تلقائيًا
+
+#### دليل اختيار الموديل المناسب
+
+| الموديل / المحرّك | الاستخدام |
+|---|---|
+| **tiny / base / small / medium** | أسرع لكن أقل دقة |
+| **Large-V2** | دقة جيدة واستقرار عالٍ لبعض اللغات |
+| **Large-V3** | الأحدث والأدق (قد يبتكر كلمات نادرًا) |
+| **Turbo** ✨ | توازن ممتاز بين السرعة والدقة — **الأنسب للعربية** |
+| **Faster Whisper** | أسرع بمراحل، يحتاج كرت Nvidia ≥ 6GB VRAM |
+| **Whisper.cpp** | سريع، يعمل بأي كرت أو CPU — الأفضل بدون Nvidia وعلى Mac |
+| **Whisper** | التنفيذ الأصلي — دقيق لكن بطيء ويستهلك ذاكرة كبيرة |
+| **HuggingFace** | نماذج مخصّصة كثيرة (منها Parakeet / Qwen3-ASR / VibeVoice) |
+
+> ⚠️ النماذج التي في اسمها **`.En`** مخصّصة للإنجليزية فقط.
+> **التوصية:** `Faster Whisper` + `Large-V3-Turbo` + `Auto detect` (أو `Whisper.cpp` إن لم يوجد كرت Nvidia).
+> المصدر: [دليل Buzz الرسمي للنماذج](https://chidiwilliams.github.io/buzz/docs/faq#4-what-model-should-i-use)
 
 ### الخطوة 2 — اختر المجلد
 - اضغط **"تصفح"** واختر مجلد الحلقات، أو **اسحب المجلد** إلى التطبيق
