@@ -6,7 +6,7 @@
 
 **ابحث. اختر. شاهد اللحظة.** — *Search. Select. Watch the moment.*
 
-[![Version](https://img.shields.io/github/v/release/jou1182/ClipSeek-Releases?include_prereleases&label=version&style=for-the-badge&color=1f6feb)](../../releases)
+![Version](https://img.shields.io/github/v/release/jou1182/ClipSeek-Releases?include_prereleases&label=version&style=for-the-badge&color=1f6feb)
 [![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#-المتطلبات--requirements)
 [![License](https://img.shields.io/badge/License-MIT-3DA639?style=for-the-badge)](LICENSE)
 [![Free Beta](https://img.shields.io/badge/Free-Beta-e8a420?style=for-the-badge)](#)
